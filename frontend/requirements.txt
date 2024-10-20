@@ -1,0 +1,8 @@
+streamlit
+requests
+pandas
+plotly
+seaborn
+matplotlib
+pydeck
+streamlit-autorefresh
